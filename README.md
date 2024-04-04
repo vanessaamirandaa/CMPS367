@@ -1,1 +1,1 @@
-# CMPS367
+# CMPS367: Object-Orientated C++
